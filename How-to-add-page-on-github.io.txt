@@ -1,0 +1,4 @@
+rename .html file -> index.html
+choose branch main or master(it changes in profile settings)
+name of repository is - nameuser.github.io
+html file should be in same hierarchy level as README.md file
