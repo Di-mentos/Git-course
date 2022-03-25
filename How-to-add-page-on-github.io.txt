@@ -2,3 +2,6 @@ rename .html file -> index.html
 choose branch main or master(it changes in profile settings)
 name of repository is - nameuser.github.io
 html file should be in same hierarchy level as README.md file
+
+you should upload files in first through Github, not Git. In future for making changes you can
+use git clone and then, changing->git add->git commit->git push
